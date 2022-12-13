@@ -1,0 +1,9 @@
+﻿  Lab1.cpp
+C:\Users\olegn\Desktop\Учеба 27.11\Геометрическое моделирование\Лаба_1\Lab1\GeometryModelingLabs\Lab1\Lab1.cpp(45,22): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\olegn\Desktop\Учеба 27.11\Геометрическое моделирование\Лаба_1\Lab1\GeometryModelingLabs\Lab1\Lab1.cpp(53,106): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\olegn\Desktop\Учеба 27.11\Геометрическое моделирование\Лаба_1\Lab1\GeometryModelingLabs\Lab1\Lab1.cpp(57,26): warning C4244: инициализация: преобразование "float" в "Uint64", возможна потеря данных
+C:\Users\olegn\Desktop\Учеба 27.11\Геометрическое моделирование\Лаба_1\Lab1\GeometryModelingLabs\Lab1\Lab1.cpp(86,122): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\olegn\Desktop\Учеба 27.11\Геометрическое моделирование\Лаба_1\Lab1\GeometryModelingLabs\Lab1\Lab1.cpp(95,122): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\olegn\Desktop\Учеба 27.11\Геометрическое моделирование\Лаба_1\Lab1\GeometryModelingLabs\Lab1\Lab1.cpp(104,122): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\olegn\Desktop\Учеба 27.11\Геометрическое моделирование\Лаба_1\Lab1\GeometryModelingLabs\Lab1\Lab1.cpp(122,37): warning C4244: аргумент: преобразование "Uint64" в "Uint32", возможна потеря данных
+  Lab1.vcxproj -> C:\Users\olegn\Desktop\Учеба 27.11\Геометрическое моделирование\Лаба_1\Lab1\GeometryModelingLabs\x64\Debug\Lab1.exe
