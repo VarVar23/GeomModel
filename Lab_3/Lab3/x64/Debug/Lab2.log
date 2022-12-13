@@ -1,0 +1,43 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (Lab2.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  AppWindow.cpp
+C:\Users\olegn\Downloads\ilienko\ilienko\Lab3\Lab3\AppWindow.cpp(12,12): warning C4244: инициализация: преобразование "float" в "Uint64", возможна потеря данных
+C:\Users\olegn\Downloads\ilienko\ilienko\Lab3\Lab3\AppWindow.cpp(81,25): warning C4244: аргумент: преобразование "Uint64" в "Uint32", возможна потеря данных
+  Lab3.cpp
+C:\Users\olegn\Downloads\ilienko\ilienko\Lab3\Lab3\Functions.h(25,40): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\olegn\Downloads\ilienko\ilienko\Lab3\Lab3\Functions.h(25,71): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\olegn\Downloads\ilienko\ilienko\Lab3\Lab3\Examples.h(89,13): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\olegn\Downloads\ilienko\ilienko\Lab3\Lab3\Examples.h(99,13): warning C4244: инициализация: преобразование "float" в "Uint8", возможна потеря данных
+C:\Users\olegn\Downloads\ilienko\ilienko\Lab3\Lab3\Examples.h(114,81): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\olegn\Downloads\ilienko\ilienko\Lab3\Lab3\Examples.h(114,29): warning C4244: инициализация: преобразование "int" в "const float", возможна потеря данных
+C:\Users\olegn\Downloads\ilienko\ilienko\Lab3\Lab3\Examples.h(116,81): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\olegn\Downloads\ilienko\ilienko\Lab3\Lab3\Examples.h(116,29): warning C4244: инициализация: преобразование "int" в "const float", возможна потеря данных
+C:\Users\olegn\Downloads\ilienko\ilienko\Lab3\Lab3\Examples.h(138,13): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\olegn\Downloads\ilienko\ilienko\Lab3\Lab3\Examples.h(146,15): warning C4244: инициализация: преобразование "float" в "uint8_t", возможна потеря данных
+C:\Users\olegn\Downloads\ilienko\ilienko\Lab3\Lab3\Lab3.cpp(16,55): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\olegn\Downloads\ilienko\ilienko\Lab3\Lab3\Lab3.cpp(16,28): warning C4244: инициализация: преобразование "int" в "const float", возможна потеря данных
+C:\Users\olegn\Downloads\ilienko\ilienko\Lab3\Lab3\Lab3.cpp(18,55): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\olegn\Downloads\ilienko\ilienko\Lab3\Lab3\Lab3.cpp(18,28): warning C4244: инициализация: преобразование "int" в "const float", возможна потеря данных
+C:\Users\olegn\Downloads\ilienko\ilienko\Lab3\Lab3\Lab3.cpp(20,55): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\olegn\Downloads\ilienko\ilienko\Lab3\Lab3\Lab3.cpp(20,28): warning C4244: инициализация: преобразование "int" в "const float", возможна потеря данных
+C:\Users\olegn\Downloads\ilienko\ilienko\Lab3\Lab3\Lab3.cpp(22,55): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\olegn\Downloads\ilienko\ilienko\Lab3\Lab3\Lab3.cpp(22,28): warning C4244: инициализация: преобразование "int" в "const float", возможна потеря данных
+C:\Users\olegn\Downloads\ilienko\ilienko\Lab3\Lab3\Lab3.cpp(24,55): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\olegn\Downloads\ilienko\ilienko\Lab3\Lab3\Lab3.cpp(24,28): warning C4244: инициализация: преобразование "int" в "const float", возможна потеря данных
+C:\Users\olegn\Downloads\ilienko\ilienko\Lab3\Lab3\Lab3.cpp(96,24): warning C4244: инициализация: преобразование "double" в "uint8_t", возможна потеря данных
+C:\Users\olegn\Downloads\ilienko\ilienko\Lab3\Lab3\Lab3.cpp(130,25): warning C4244: -=: преобразование "double" в "int", возможна потеря данных
+C:\Users\olegn\Downloads\ilienko\ilienko\Lab3\Lab3\Lab3.cpp(131,25): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+  MImageCalculator.cpp
+C:\Users\olegn\Downloads\ilienko\ilienko\Lab3\Lab3\Functions.h(25,40): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\olegn\Downloads\ilienko\ilienko\Lab3\Lab3\Functions.h(25,71): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\olegn\Downloads\ilienko\ilienko\Lab3\Lab3\MImageCalculator.cpp(28,11): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\olegn\Downloads\ilienko\ilienko\Lab3\Lab3\MImageCalculator.cpp(43,11): warning C4244: инициализация: преобразование "float" в "Uint8", возможна потеря данных
+  Texture.cpp
+  imgui_impl_sdl.cpp
+  imgui_impl_sdlrenderer.cpp
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  Создание кода...
+  Lab2.vcxproj -> C:\Users\olegn\Downloads\ilienko\ilienko\Lab3\Lab3\x64\Debug\Lab3.exe
